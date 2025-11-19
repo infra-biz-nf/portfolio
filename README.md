@@ -53,3 +53,9 @@ SIerとして As-Is 業務移管のリード、要件定義、詳細設計、ベ
 - 可視化・標準化  
 - 業務の属人化排除  
 - 自動化・効率化  
+
+## 🏅 Certifications
+- AWS Certified Machine Learning – Specialty (MLS)
+- AWS Certified Machine Learning – Associate (MLA)
+- AWS Certified AI Practitioner (AIF-C01)
+- AWS Certified Data Engineer – Associate (DEA)
