@@ -15,6 +15,11 @@ SIerとして As-Is 業務移管のリード、要件定義、詳細設計、ベ
 - ドキュメント整備（運用設計、手順書、パラメータシート）
 - 生成AI活用（ナレッジ検索／自動ドキュメント生成）
 
+## 🎓 Certifications（主要資格）
+- **AWS Certified Machine Learning – Specialty (MLS)**
+- **AWS Certified Data Engineer – Associate (DEA)**
+- **AWS Certified Machine Learning – Associate (MLA)**
+- **AWS Certified AI Practitioner (AIF)**
 ---
 
 ## 💼 Experience Summary
